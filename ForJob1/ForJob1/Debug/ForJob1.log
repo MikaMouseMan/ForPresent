@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\gitgame\newexperiment\forjob1\forjob1\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ForJob1.vcxproj -> D:\GitGame\NewExperiment\ForJob1\Debug\ForJob1.exe
